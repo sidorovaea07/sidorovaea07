@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/sidorovaea07" target="_blank">Lena</a> 
-<img src="https://tenor.com/ru/view/cat-cute-cat-bow-cat-pink-cat-smile-cat-hello-gif-8393027935639589957" height="32"/></h1>
+<img src="https://tenor.com/ru/view/cat-cute-cat-bow-cat-pink-cat-smile-cat-hello-gif-8393027935639589957.gif" height="68"/></h1>
 <h3 align="center">MIPT RT student </h3>
 
-<img src="https://tenor.com/ru/view/catjam-cat-disco-catjamming-gif-16989864924126703156" alt="a cute cat dancing">
+<img src="https://tenor.com/ru/view/catjam-cat-disco-catjamming-gif-16989864924126703156.gif"  height=100 alt="a cute cat dancing">
 
 
 <!--
