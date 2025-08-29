@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://github.com/sidorovaea07" target="_blank">Lena</a> 
+<img src="https://tenor.com/ru/view/cat-cute-cat-bow-cat-pink-cat-smile-cat-hello-gif-8393027935639589957" height="32"/></h1>
+<h3 align="center">MIPT RT student </h3>
+
+<img src="https://tenor.com/ru/view/catjam-cat-disco-catjamming-gif-16989864924126703156" alt="a cute cat dancing">
+
 
 <!--
 **sidorovaea07/sidorovaea07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
